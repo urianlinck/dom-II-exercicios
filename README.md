@@ -1,4 +1,4 @@
-# **A028 - DOM II**
+# **DOM II - Exercícios**
 
 ### **Setup do projeto no Git**
 
